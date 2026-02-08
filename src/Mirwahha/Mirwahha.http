@@ -1,0 +1,6 @@
+@Mirwahha_HostAddress = http://localhost:5227
+
+GET {{Mirwahha_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

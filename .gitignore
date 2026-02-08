@@ -1,0 +1,24 @@
+.gitignore
+.github
+
+# --- .NET/C# Specific ---
+bin/
+obj/
+out/
+.vscode/
+.vs/
+
+# --- User-specific files ---
+*.user
+*.userosscache
+*.sln.docuser
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+
+# --- Build results ---
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
